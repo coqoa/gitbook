@@ -1,8 +1,10 @@
 # Table of contents
 
+* [👋 Welcome.md](README.md)
+
 ## Introduce
 
-* [💡 What we doooooo](README.md)
+* [💡 What we doooooo](<README (1).md>)
 * [✨ Our Features](introduce/our-features.md)
 
 ## side project
@@ -20,4 +22,3 @@
 
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
-* [👋 Welcome.md](use-cases/welcome.md.md)
