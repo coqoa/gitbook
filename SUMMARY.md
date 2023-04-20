@@ -1,24 +1,23 @@
 # Table of contents
 
-* [👋 Welcome.md](README.md)
+## Introduce
 
-## Overview
+* [💡 What we doooooo](README.md)
+* [✨ Our Features](introduce/our-features.md)
 
-* [💡 What we doooooo](overview/what-we-doooooo.md)
-* [✨ Our Features](overview/our-features.md)
+## side project
 
-## Product Guides
+* [📪 Making a post](side-project/making-a-post.md)
+* [📎 Understanding Projects](side-project/understanding-projects.md)
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+## post
 
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 Getting set up](post/getting-set-up/README.md)
+  * [📝 Setting permissions](post/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](post/getting-set-up/inviting-members.md)
 
 ## Use Cases
 
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
+* [👋 Welcome.md](use-cases/welcome.md.md)
