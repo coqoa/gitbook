@@ -1,5 +1,7 @@
 # 👋 Welcome.md
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>a</td><td>a</td></tr><tr><td>aa</td><td>aa</td><td>aa</td></tr><tr><td>aa</td><td>aa</td><td>aa</td></tr></tbody></table>
+
 {% hint style="success" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
