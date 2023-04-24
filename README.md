@@ -1,47 +1,23 @@
-# 👋 Welcome.md
+# 👋 반갑습니다, 최병민입니다
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>a</td><td>a</td></tr><tr><td>aa</td><td>aa</td><td>aa</td></tr><tr><td>aa</td><td>aa</td><td>aa</td></tr></tbody></table>
+저는 개인의 성장이 곧 기업의 성장이라 생각하고 **꾸준한 성장을 위한 자가학습**에 관심이 많습니다.
 
-{% hint style="success" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+**효율적인 시간 관리**를 위한 스케줄러 작성 및 관리를 중요하게 생각하며
 
-## Overview
+이를 통해 '도전 \~ 성과내기'를 짧은 주기로 반복하여 동기부여와 성취감을 얻습니다.
 
-Here are a couple of example overviews from products with really great docs:
+항상 **나의** **가치**가 어느정도인지, 그리고 **어떤 가치**를 제공할 수 있는 사람인지 알기위해 고민하며
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+커뮤니케이션 능력이 좋은 사람, 필요로하는 좋은 서비스를 만들 수 있는 사람이 되기 위해 노력합니다
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Quick links
 
-{% content-ref url="README (1).md" %}
-[README (1).md](<README (1).md>)
-{% endcontent-ref %}
+### Project & Skill
 
-{% content-ref url="introduce/our-features.md" %}
-[our-features.md](introduce/our-features.md)
-{% endcontent-ref %}
+* JAVADOT
+* POMOTODO
+* 탭탭카드놀이
+* Gramming
 
-## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="post/getting-set-up/" %}
-[getting-set-up](post/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="post/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](post/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="post/getting-set-up/inviting-members.md" %}
-[inviting-members.md](post/getting-set-up/inviting-members.md)
-{% endcontent-ref %}

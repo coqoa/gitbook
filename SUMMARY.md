@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome.md](README.md)
+* [👋 반갑습니다, 최병민입니다](README.md)
 
 ## Introduce
 
