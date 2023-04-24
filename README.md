@@ -12,12 +12,35 @@
 
 
 
-### Project & Skill
+## Project & Skill
 
-* JAVADOT
-* POMOTODO
-* 탭탭카드놀이
-* Gramming
+유저의 니즈를 잘 반영하고 사용성에 불편함이 없는게 좋은 서비스라고 생각하고 사이드 프로젝트를 진행했습니다. \
+네 가지 프로젝트를 혼자 진행하며 **'문제의 본질 파악 - 가설 수립 - 검증'**하는 과정을 반복했고,\
+이를 통해 **'문제 해결 능력'**을 키울 수 있었습니다
+
+### [javadot.md](side-project/javadot.md "mention")
+
+`(21/06/24 ~ 21/08/23)`
+
+![](https://img.shields.io/badge/JAVA-007396?style=for-the-badge\&logo=java\&logoColor=white)
+
+
+
+### [pomotodo.md](side-project/pomotodo.md "mention")
+
+`(21/08/28 ~ 22/01/10)`
+
+
+
+### [taptapcard.md](side-project/taptapcard.md "mention")
+
+`(22/02/26 ~ 22/05/31)`
+
+
+
+### [gramming.md](side-project/gramming.md "mention")&#x20;
+
+`(22/??/?? ~ 23/??/??)`
 
 
 

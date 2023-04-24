@@ -1,16 +1,15 @@
 # Table of contents
 
-* [👋 반갑습니다, 최병민입니다](README.md)
-
 ## Introduce
 
-* [What we doooooo](<README (1).md>)
-* [Our Features](introduce/our-features.md)
+* [👋 반갑습니다, 최병민입니다](README.md)
 
 ## side project
 
-* [Making a post](side-project/making-a-post.md)
-* [Understanding Projects](side-project/understanding-projects.md)
+* [🎮 JAVADOT](side-project/javadot.md)
+* [🍅 POMOTODO](side-project/pomotodo.md)
+* [👶 TapTapCard](side-project/taptapcard.md)
+* [🍰 Gramming](side-project/gramming.md)
 
 ## post
 
