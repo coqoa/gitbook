@@ -31,6 +31,10 @@
 > 간단한 게임을 개발하며 기초적인 프로그래밍을 배우고 문제 접근법, 자료 검색 방법, 해결법 등을 익혔습니다\
 > 콘텐츠를 풍부하게 하기 위한 다양한 아이디어를 제시하고 구현했으며, 입출력 장치 컨트롤, 요소 간의 상호작용, \
 > 멀티쓰레딩, 프레임 드롭 이슈 해결 등을 경험할 수 있었습니다.
+>
+> [자세히 보기](side-project/making-a-post.md)
+
+###
 
 ### POMOTODO
 
@@ -40,6 +44,10 @@
 
 > 효율적인 시간 관리를 위한 웹서비스가 제게 가장 필요했기 때문에 프로젝트를 진행했습니다. \
 > 프론트엔드, 백엔드, DB, 네트워크, 클라우드 컴퓨팅, 크롬 확장 프로그램 배포 등 전반적인 서비스 개발의 모든 부분을 경험해 봤고 작업이 어떤 사이클로 돌아가는지, 내가 어떤 쪽에 더 흥미가 있고 잘 할 수 있을지 알 수 있었습니다.&#x20;
+>
+> [자세히 보기](side-project/pomotodo.md)
+
+###
 
 ### 탭탭카드놀이
 
@@ -54,6 +62,10 @@
 > 짧은 시간을 투자해서  React, React Native 공부를 한번에  할 수 있다는 것도 큰 장점으로 다가왔습니다
 >
 > 앱 개발과정도 매우 흥미로웠지만 개발 환경 구축, 빌드 및 배포 과정 등의 귀중한 경험을 할 수 있었고 결과적으로 iOS와 Android 두 가지 플랫폼에 모두 배포할 수 있었습니다.
+>
+> [자세히 보기](side-project/taptapcard.md)
+
+###
 
 ### Gramming
 
@@ -61,5 +73,8 @@
 
 ![](https://img.shields.io/badge/flutter-02569B?style=for-the-badge\&logoColor=black) ![](https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge\&logoColor=black)
 
-
+> a\
+> a
+>
+> [자세히 보기](side-project/gramming.md)
 
