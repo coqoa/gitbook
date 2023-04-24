@@ -2,11 +2,11 @@
 
 ## Introduce
 
-* [👋 반갑습니다, 최병민입니다](README.md)
+* [👋 Hi](README.md)
 
 ## side project
 
-* [🎮 JAVADOT](side-project/javadot.md)
+* [🎮 JAVADOT](side-project/making-a-post.md)
 * [🍅 POMOTODO](side-project/pomotodo.md)
 * [👶 TapTapCard](side-project/taptapcard.md)
 * [🍰 Gramming](side-project/gramming.md)
