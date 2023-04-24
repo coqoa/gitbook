@@ -2,7 +2,7 @@
 
 ## Introduce
 
-* [👋 Hi](README.md)
+* [👋 HI.](README.md)
 
 ## side project
 
@@ -17,7 +17,6 @@
   * [Setting permissions](post/getting-set-up/setting-permissions.md)
   * [Inviting Members](post/getting-set-up/inviting-members.md)
 
-## Use Cases
+***
 
-* [For Designers](use-cases/for-designers.md)
-* [For Developers](use-cases/for-developers.md)
+* [Page 1](page-1.md)
