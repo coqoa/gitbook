@@ -116,5 +116,5 @@ description: 반갑습니다, 최병민입니다
 > a\
 >
 >
-> [자세히 보기](side-project/gramming.md)
+> [link](side-project/gramming.md)
 
