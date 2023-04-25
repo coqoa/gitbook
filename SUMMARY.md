@@ -2,7 +2,7 @@
 
 ## Introduce
 
-* [👋 HI.](README.md)
+* [👋 Hello.](README.md)
 
 ## side project
 

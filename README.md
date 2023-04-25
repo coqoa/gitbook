@@ -2,7 +2,17 @@
 description: 반갑습니다, 최병민입니다
 ---
 
-# 👋 HI.
+# 👋 Hello.
+
+## \[Information]
+
+> Email. coqoa28@gmail.com
+>
+> GitHub. [https://github.com/coqoa](https://github.com/coqoa)
+>
+> Blog. [https://coqoa.gitbook.io/blog/introduce/h-i.](https://coqoa.gitbook.io/blog/introduce/h-i.)
+>
+> Youtube. [https://www.youtube.com/@coqoa6842/featured](https://www.youtube.com/@coqoa6842/featured)
 
 ## \[Introduce]
 
@@ -18,25 +28,18 @@ description: 반갑습니다, 최병민입니다
 
 
 
-## \[Information]
-
-> 이름 : 최병민
->
-> 이메일 : coqoa28@gmail.com
->
-> Git : [https://github.com/coqoa](https://github.com/coqoa)
->
-> Blog : [https://coqoa.gitbook.io/blog/introduce/h-i.](https://coqoa.gitbook.io/blog/introduce/h-i.)
->
-> Youtube : [https://www.youtube.com/@coqoa6842/featured](https://www.youtube.com/@coqoa6842/featured)
-
-
+| 최병민                                                    |
+| ------------------------------------------------------ |
+| coqoa28@gmail.com                                      |
+| [Github](https://github.com/coqoa)                     |
+| [Blog](https://coqoa.gitbook.io/blog/introduce/h-i.)   |
+| [Youtube](https://www.youtube.com/@coqoa6842/featured) |
 
 ## \[Experience]
 
 <details>
 
-<summary>Underpin / Frontend  Developer / 23.08.16 ~</summary>
+<summary>Underpin / Frontend  Developer / <code>23.08.16 ~</code></summary>
 
 주사용 기술 스택 : Flutter
 
@@ -44,9 +47,14 @@ description: 반갑습니다, 최병민입니다
 * Translate 기능 구현
 * Firebase Crashlytics 구현
 * React로 관리자 페이지 구현
-* Image Compressed를 통한 데이터 용ㅑ&#x20;
+* Image Compressed를 통한 데이터 용량 절감
+* Noti Page, Push alarm 등에서 보여지는 글 어순에 맞게 번역
+* 인앱결제 기능 구현
+* Flutter\_Map을 활용한 LBS 서비스 기능 구현
 
 </details>
+
+##
 
 ## \[SideProject]
 
