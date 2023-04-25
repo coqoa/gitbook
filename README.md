@@ -2,17 +2,17 @@
 description: 반갑습니다, 최병민입니다
 ---
 
-# 👋 Hello.
-
-## \[Information]
+# 👋 hello.
 
 > Email. coqoa28@gmail.com
 >
 > GitHub. [https://github.com/coqoa](https://github.com/coqoa)
 >
-> Blog. [https://coqoa.gitbook.io/blog/introduce/h-i.](https://coqoa.gitbook.io/blog/introduce/h-i.)
+> Blog. [https://coqoa.gitbook.io/blog/](https://coqoa.gitbook.io/blog/)
 >
-> Youtube. [https://www.youtube.com/@coqoa6842/featured](https://www.youtube.com/@coqoa6842/featured)
+> Youtube. [https://www.youtube.com/@coqoa6842](https://www.youtube.com/@coqoa6842/featured)
+
+##
 
 ## \[Introduce]
 
@@ -27,13 +27,6 @@ description: 반갑습니다, 최병민입니다
 커뮤니케이션 능력이 좋은 사람, 필요로하는 좋은 서비스를 만들 수 있는 사람이 되기 위해 노력합니다
 
 
-
-| 최병민                                                    |
-| ------------------------------------------------------ |
-| coqoa28@gmail.com                                      |
-| [Github](https://github.com/coqoa)                     |
-| [Blog](https://coqoa.gitbook.io/blog/introduce/h-i.)   |
-| [Youtube](https://www.youtube.com/@coqoa6842/featured) |
 
 ## \[Experience]
 
