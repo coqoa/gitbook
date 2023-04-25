@@ -20,23 +20,32 @@ description: 반갑습니다, 최병민입니다
 
 ## \[Information]
 
-> 이름
+> 이름 : 최병민
 >
-> 전화번호
+> 이메일 : coqoa28@gmail.com
 >
-> 이메일
+> Git : [https://github.com/coqoa](https://github.com/coqoa)
 >
-> Git
+> Blog : [https://coqoa.gitbook.io/blog/introduce/h-i.](https://coqoa.gitbook.io/blog/introduce/h-i.)
 >
-> 블로그바로가기
->
-> Youtube
+> Youtube : [https://www.youtube.com/@coqoa6842/featured](https://www.youtube.com/@coqoa6842/featured)
 
 
 
 ## \[Experience]
 
+<details>
 
+<summary>Underpin / Frontend  Developer / 23.08.16 ~</summary>
+
+주사용 기술 스택 : Flutter
+
+* Notification Page 구현
+* Translate 기능 구현
+* Firebase Crashlytics 구현
+* React로 관리자 페이지 구현
+
+</details>
 
 ## \[SideProject]
 
