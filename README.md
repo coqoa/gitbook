@@ -6,11 +6,11 @@ description: 반갑습니다, 최병민입니다
 
 > Email. coqoa28@gmail.com
 >
-> GitHub. [https://github.com/coqoa](https://github.com/coqoa)
+> GitHub. [github.com/coqoa](https://github.com/coqoa)
 >
-> Blog. [https://coqoa.gitbook.io/blog/](https://coqoa.gitbook.io/blog/)
+> Blog. [coqoa.gitbook.io/blog](https://coqoa.gitbook.io/blog/)
 >
-> Youtube. [https://www.youtube.com/@coqoa6842](https://www.youtube.com/@coqoa6842/featured)
+> Youtube. [www.youtube.com/@coqoa6842](https://www.youtube.com/@coqoa6842/featured)
 
 ##
 
