@@ -10,5 +10,5 @@ description: (21/06/24 ~ 21/08/23)
 
 {% embed url="https://www.youtube.com/watch?v=V6vTG9MVplU" %}
 
-[more..](https://coqoa.tistory.com/39)
+[more..](https://coqoa.tistory.com/search/javadot)
 

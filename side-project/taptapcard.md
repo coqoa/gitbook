@@ -10,4 +10,4 @@ description: (22/02/26 ~ 22/05/31)
 
 {% embed url="https://www.youtube.com/watch?v=cEruToGCj98" %}
 
-[more..](https://coqoa.tistory.com/128)
+[more..](https://coqoa.tistory.com/search/%ED%83%AD%ED%83%AD)

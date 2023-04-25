@@ -10,4 +10,4 @@ description: (21/08/28 ~ 22/01/10)
 
 {% embed url="https://www.youtube.com/watch?t=1s&v=f_0x8HkxSok" %}
 
-[more..](https://coqoa.tistory.com/79)
+[more..](https://coqoa.tistory.com/search/pomotodo)
