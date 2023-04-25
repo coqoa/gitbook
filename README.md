@@ -68,7 +68,7 @@ description: 반갑습니다, 최병민입니다
 > 멀티쓰레딩, 프레임 드롭 이슈 해결 등을 경험할 수 있었습니다.\
 >
 >
-> [자세히 보기](side-project/making-a-post.md)
+> [link](side-project/making-a-post.md)
 
 ###
 
@@ -82,7 +82,7 @@ description: 반갑습니다, 최병민입니다
 > 프론트엔드, 백엔드, DB, 네트워크, 클라우드 컴퓨팅, 크롬 확장 프로그램 배포 등 전반적인 서비스 개발의 모든 부분을 경험해 봤고 작업이 어떤 사이클로 돌아가는지, 내가 어떤 쪽에 더 흥미가 있고 잘 할 수 있을지 알 수 있었습니다. \
 >
 >
-> [자세히 보기](side-project/pomotodo.md)
+> [link](side-project/pomotodo.md)
 
 ###
 
@@ -102,7 +102,7 @@ description: 반갑습니다, 최병민입니다
 > 결과적으로 iOS와 Android 두 가지 플랫폼에 모두 배포할 수 있었습니다.\
 >
 >
-> [자세히 보기](side-project/taptapcard.md)
+> [link](side-project/taptapcard.md)
 
 ###
 
