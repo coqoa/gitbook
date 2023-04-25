@@ -44,6 +44,7 @@ description: 반갑습니다, 최병민입니다
 * Translate 기능 구현
 * Firebase Crashlytics 구현
 * React로 관리자 페이지 구현
+* Image Compressed를 통한 데이터 용ㅑ&#x20;
 
 </details>
 
