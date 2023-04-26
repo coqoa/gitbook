@@ -9,14 +9,11 @@
 * [🎮 JAVADOT](side-project/making-a-post.md)
 * [🍅 POMOTODO](side-project/pomotodo.md)
 * [👶 TapTapCard](side-project/taptapcard.md)
-* [🍰 Gramming](side-project/gramming.md)
+* [🍞 Gramming](side-project/gramming.md)
 
 ## post
 
-* [Getting set up](post/getting-set-up/README.md)
-  * [Setting permissions](post/getting-set-up/setting-permissions.md)
-  * [Inviting Members](post/getting-set-up/inviting-members.md)
-
-***
-
-* [Page 1](page-1.md)
+* [🍞 Gramming](post/gramming/README.md)
+  * [Layout](post/gramming/layout.md)
+  * [Setting permissions](post/gramming/setting-permissions.md)
+  * [Inviting Members](post/gramming/inviting-members.md)
