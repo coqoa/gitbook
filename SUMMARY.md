@@ -14,6 +14,7 @@
 ## post
 
 * [🍞 Gramming](post/gramming/README.md)
+  * [What is 'Gramming'?](post/gramming/what-is-gramming.md)
   * [Layout](post/gramming/layout.md)
   * [Setting permissions](post/gramming/setting-permissions.md)
   * [Inviting Members](post/gramming/inviting-members.md)
