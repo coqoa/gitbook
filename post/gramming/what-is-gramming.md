@@ -1,6 +1,6 @@
 # What is 'Gramming'?
 
-* **What is 'Gramming'?**
+* **'Gramming'은?**
   * 베이킹할 때 중량 계산, 분할 등에 도움을 주는 앱입니다.
   * 메뉴 - 레시피 의 구조로 구성되어 있습니다
   * 각 레시피를 읽기, 작성, 수정, 삭제할 수 있습니다
@@ -16,28 +16,31 @@
 
 
 
-*   Tech Stack
+*   기술 스택
 
     * Flutter
     * Firebase
 
 
-* Page Structure
+* 페이지 구조
 
 ```
-{
-    main.dart
-        sign.dart
-        menu.dart
-            recipe.dart
-                add_recipe.dart
-                edit_recipe.dart
-}
+- main.dart (앱의 진입점(entry point) 역할을 합니다.)
+  | 
+  |- sign.dart (로그인/로그아웃 페이지입니다.)
+  | 
+  |- menu.dart (메뉴 페이지입니다, 연관성 있는 레시피들을 그룹화하는 역할을 합니다.)
+      | 
+      |- recipe.dart (레시피 화면입니다, 레시피를 보여주고 추가, 삭제, 수정할 수 있는 기능들을 제공합니다))
+          | 
+          |- add_recipe.dart (레시피 추가 페이지입니다.)
+          | 
+          |- edit_recipe.dart (레시피 수정 페이지입니다.)
 ```
 
 
 
-* Database Structure
+* Firebase DB 구조
 
 ```dart
 {
@@ -57,6 +60,36 @@
     ...
 
 }
+
+- user
+  |
+  |- userUid
+      |
+      |- menuList = [menu1, menu2, menu3, menu4]
+      |   |
+      |   |- menu1
+      |   |   |
+      |   |   |- memo = {Memo: ""}
+      |   |   |
+      |   |   |- recipeList = [recipe1, recipe2, recipe3, recipe4]
+      |   |       |
+      |   |       |- recipe1 = {
+      |   |       |      divideWeight : ???
+      |   |       |      multipleValue : ???
+      |   |       |      ingredient = [ing1, ing2, ing3 ...]
+      |   |       |      weight = [wei1, wei2, wei3 ...]
+      |   |       |  }
+      |   |       |
+      |   |       |  ...
+      |   |
+      |   |- menu2
+      |   |
+      |   |- menu3
+      |   |
+      |   |- menu4
+      |
+      | ...
+      
 
 - 디자인 
 
