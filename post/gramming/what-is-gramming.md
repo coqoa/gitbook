@@ -22,7 +22,7 @@
     * Firebase
 
 
-* 페이지 구조
+* **페이지 구조**
 
 ```
 - main.dart (앱의 진입점(entry point) 역할을 합니다.)
@@ -40,58 +40,59 @@
 
 
 
-* Firebase DB 구조
+* **Firebase DB 구조**
 
 ```dart
-{
-    user
-        userUid
-            menuList = [menu1, menu2, menu3, menu4]
-            menu1
-                memo = {Memo:""}
-                recipeList = [recipe1, recipe2, recipe3, recipe4]
-                recipe
-                    recipe1 = {
-                        divideWeight : ???
-                        multipleValue : ???
-                        ingredient = [ing1, ing2, ing3 ...]
-                        weight = [wei1, wei2, wei3 ...]
-                    }
-    ...
+// (C) : Collection
+// (D) : Document
+// (F) : Field
 
-}
-
-- user
+- (C) user
   |
-  |- userUid
+  |- (D) userUid
       |
-      |- menuList = [menu1, menu2, menu3, menu4]
+      |- (F) menuList = [menu1, menu2, menu3, menu4]
       |   |
-      |   |- menu1
+      |   |- (C) menu1
       |   |   |
-      |   |   |- memo = {Memo: ""}
+      |   |   |- (D) memo = {
+      |   |   |        Memo: "Memo Example..."
+      |   |   |      }
       |   |   |
-      |   |   |- recipeList = [recipe1, recipe2, recipe3, recipe4]
+      |   |   |- (D) recipeList = [
+      |   |   |        recipe1, recipe2, recipe3, recipe4
+      |   |   |      ]
+      |   |   |
+      |   |   |- (D) recipe
       |   |       |
-      |   |       |- recipe1 = {
-      |   |       |      divideWeight : ???
-      |   |       |      multipleValue : ???
-      |   |       |      ingredient = [ing1, ing2, ing3 ...]
-      |   |       |      weight = [wei1, wei2, wei3 ...]
-      |   |       |  }
+      |   |       |- (F) recipe1 = {
+      |   |       |          divideWeight : 1
+      |   |       |          multipleValue : 1
+      |   |       |          ingredient = [ingredient1, ingredient2, ingredient3, ...]
+      |   |       |          weight = [weight1, weight2, weight3, ...]
+      |   |       |       }
       |   |       |
       |   |       |  ...
       |   |
-      |   |- menu2
-      |   |
-      |   |- menu3
-      |   |
-      |   |- menu4
-      |
+      |   |- (C)menu2
+      |   |   | ...
+      |   |- (C)menu3
+      |   |   | ...
+      |   |- (C)menu4
+      |       | ...
       | ...
       
 
-- 디자인 
 
+```
+
+```
+- 디자인 
+```
+
+```
+```
+
+```
 - 개발
 ```
