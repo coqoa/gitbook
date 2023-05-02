@@ -12,8 +12,57 @@
 
 * **디자인**
 
+    - 아이콘 / 스플래쉬 스크린
+  
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">  
+      
+      <br>  
 
-<br>
+    - 회원가입 / 로그인   
+
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">  
+      
+      <br>  
+  
+
+    - 메뉴 + (추가/수정/삭제)  
+
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">  
+      
+      <br>  
+  
+
+    - 레시피 + (곱하기 / 나누기 / 삭제)  
+
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">  
+        
+      <br>  
+  
+
+    - 레시피 추가, 레시피 수정
+
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">  
+      
+      <br>  
+  
+
+    - 메모  
+
+      <img src="/post/gramming/screenshot/1.png" height="500px" width="300px">  
+      
+      <br>  
+  
+
+
+
+
 
 *  **기술 스택**
 
