@@ -9,13 +9,14 @@
   * 한글과 영어 양 언어로 제공됩니다
 
 <br>
+<br>
 
 * **디자인**
 
     - 아이콘 / 스플래쉬 스크린
 
-      <img src="https://user-images.githubusercontent.com/81023768/235719934-ccc1e86c-421e-44a8-8c3d-7c32699c276f.png" height="243px" width="243px">
-      <img src="https://user-images.githubusercontent.com/81023768/235721088-5bca7d7c-051c-4cef-a808-84112994d331.png" height="508px" width="243px">  
+     >  <img src="https://user-images.githubusercontent.com/81023768/235719934-ccc1e86c-421e-44a8-8c3d-7c32699c276f.png" height="243px" width="243px">
+     > <img src="https://user-images.githubusercontent.com/81023768/235721088-5bca7d7c-051c-4cef-a808-84112994d331.png" height="508px" width="243px">  
       
       <br>  
 
@@ -64,16 +65,16 @@
       <br>  
   
 
-
-
-
+<br>
+<br>
 
 *  **기술 스택**
 
-    * Flutter
-    * Firebase
+    `Flutter`  
+    `Firebase`
 
 
+<br>
 <br>
 
 
@@ -93,7 +94,8 @@
             |- edit_recipe.dart // (레시피 수정 페이지입니다.)
   ```
 
-
+<br>
+<br>
 
 * **Firebase DB 구조**
 
@@ -136,10 +138,11 @@
         |   |- (C)menu4
         |       | ...
         | ...
-        
-
-
   ```
+
+<br>
+<br>
+
 - **개발**
 
   ```
