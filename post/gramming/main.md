@@ -1,3 +1,4 @@
+# 진입점 역할을 하는 main 페이지 코드 설명
 - main.dart
 
     <details>
@@ -107,7 +108,11 @@
         }
         ```
     </details>
+  
+<br>
 
+- 각개 설명 
+  
 <br>
 
 ```dart
@@ -214,7 +219,7 @@ ScreenUtilInit(
         
             builder: (context, child){
                 return MediaQuery(
-                data: MediaQuery.of(context).copyWith(textScaleFactor: 1.0), 
+                data: MediaQuery.of(context).copyWith(textScaleFactor: 1.0),  //폰트 크기 고정하기
                 child: child!
                 );
             },
@@ -227,4 +232,11 @@ ScreenUtilInit(
 
 );
 ```
+---
 
+<br>
+
+## 추후에 추가 설명할 토픽 : 
+- Firebase
+- ScreenUtilInit
+- GetX
