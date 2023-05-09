@@ -4,27 +4,25 @@
 
 [link](https://firebase.google.com)
 
-1. 로그인
-2. 콘솔로 이동
-3. 프로젝트 만들기
-4. 프로젝트 이름 입력
-5. Google 애널리틱스 사용 여부 선택 및 설정
-6. Create project
+- 로그인`  >  `콘솔로 이동`  >  `프로젝트 만들기`  >  `프로젝트 이름 입력  
+` >  `Google 애널리틱스 사용 여부 선택 및 설정`  >  `프로젝트 생성
 
+<br>
+ 
 ## # iOS 설정
-1. Xcode - General - Bundle Identifier 변경
-2. 프로젝트 선택 - iOS버튼 클릭
-3. 변경한 Bundle Identifier 입력 - Register app 
-4. `GoogleService-info.plist` 파일 다운로드
-5. 위 파일을 ios / Runner 폴더에 넣기
-6. firestore ios 설정 next 버튼
-7. 적혀있는 데로 설정하고 완료
+1. Firebase개요 - '+앱추가' - ios
+2. Xcode - General - Bundle Identifier 변경하고 복사해놓기
+3. 프로젝트 선택 - iOS버튼 클릭
+4. 복사해놓은 Bundle Identifier 입력 - Register app 
+5. `GoogleService-info.plist` 파일 다운로드
+6. 위 파일을 ios / Runner 폴더에 넣기
+7. firestore ios 설정 next 버튼
+8. 적혀있는 데로 설정하고 완료
 
+<br>
+ 
 ## # Android 설정
-1. Firebase개요 - '+앱추가' - Android 클릭
-2. 패키지 이름 입력 - 앱 등록
-3. google-services.json파일 다운로드 - android / app파일 내부에 넣기
-4. Firebase SDK 추가
+1. Gradle 수정
     ```dart
         // android/build.gradle
         buildscript {
@@ -60,11 +58,18 @@
             implementation 'com.android.support:multidex:2.0.1' // add
         }
     ```
+2. Firebase개요 - '+앱추가' - Android
+3. 패키지 이름 입력(위에서 추가한 applicationId) - 앱 등록
+4. google-services.json파일 다운로드, android / app파일 내부에 넣기
+
 ## # firebase_core 설치
 [link](https://pub.dev/packages/firebase_core)
 
 - 설치  
   `flutter pub add firebase_core`
+
+<br>
+ 
 - Podfile 수정
     ```dart
     // ios/Podfile
@@ -72,9 +77,12 @@
     ```
     `cd ios`  
     `pod install`
+
+<br>
+ 
 - Firebase 초기화
-  ```dart
-  // main.dart
+    ```dart
+    // main.dart
     import 'package:firebase_core/firebase_core.dart';
 
     Future<void> main() async {
@@ -83,5 +91,5 @@
 
         runApp(MyApp());
     }
-  ```
+    ```
 
