@@ -1,5 +1,5 @@
 # Flutter Fidrebase
-
+[doc](https://firebase.google.com/docs/flutter/setup?hl=ko&platform=ios)
 ## # Firebase 프로젝트 생성
 
 - [link](https://firebase.google.com)
@@ -18,54 +18,54 @@
 2. Xcode > General > Bundle Identifier 변경하고 복사해놓기
 3. 프로젝트 선택 > iOS버튼 클릭
 4. 복사해놓은 Bundle Identifier 입력 > 앱 등록 
-5. `GoogleService-info.plist` 파일 다운로드 > ios / Runner 폴더에 넣기
+5. `GoogleService-info.plist` 파일 다운로드 > 'ios/Runner' 내부에 넣기
 6. firestore sdk 추가 > next 
 7. 나머지 설정 적용
 
 <br>
  
 ## # Android 설정
-1. Gradle 수정
+1. Firebase개요 > '+앱추가' > Android
+2. 패키지 이름 입력 ('android/app/build.gradle' 내부의 applicationId) > 앱 등록
+3. `google-services.json`파일 다운로드 > 'android/app' 내부에 넣기
+4. firestore sdk 추가 > next 
     ```dart
-        // android/build.gradle
-        buildscript {
-            repositories {
-                
-                google()  
-                mavenCentral()  
+    // android/build.gradle
 
-            }
-            dependencies {
-                ...
-                classpath 'com.google.gms:google-services:4.3.15'
-            }
+    buildscript {
+        repositories {
+            
+            google()  
+            mavenCentral()  
+
         }
-
-        allprojects {
+        dependencies {
             ...
-            repositories {
-                google() 
-                mavenCentral()
-            }
+            classpath 'com.google.gms:google-services:4.3.15'
         }
+    }
+
+    allprojects {
+        ...
+        repositories {
+            google() 
+            mavenCentral()
+        }
+    }
     ```
     ```dart
     // android/app/build.gradle
 
-        apply plugin: 'com.google.gms.google-services' // add
+    apply plugin: 'com.google.gms.google-services' 
 
-        applicationId "com.coqoa.gramming" // add
+    applicationId "com.coqoa.gramming"
 
-        dependencies {
-            implementation platform('com.google.firebase:firebase-bom:31.5.0') // add
-            implementation 'com.android.support:multidex:2.0.1' // add
-        }
+    dependencies {
+        implementation platform('com.google.firebase:firebase-bom:31.5.0')
+        implementation 'com.android.support:multidex:2.0.1'
+    }
     ```
-2. Firebase개요 > '+앱추가' > Android
-3. 패키지 이름 입력(위에서 추가한 applicationId) > 앱 등록
-4. `google-services.json`파일 다운로드 > android / app파일 내부에 넣기
-5. firestore sdk 추가 > next 
-6. 나머지 설정 적용
+5. 나머지 설정 적용
 
 <br>
 
