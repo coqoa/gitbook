@@ -1,14 +1,14 @@
-# Google Place API
+# [Google Place API](https://developers.google.com/maps/documentation/places/web-service?hl=ko)
 
-### 프로젝트 설정
+## # 프로젝트 설정
 1. [Google Cloud](https://console.cloud.google.com/) 접속, 로그인
 2. 새 프로젝트를 만들거나 기존 프로젝트 선택
 3. 상단 검색창에 'API 및 서비스'검색후 해당 메뉴로 이동
 4. API 및 서비스 메뉴 상단 `+ API 및 서비스 사용설정`버튼  클릭 > 'Places API'를 검색해서 **활성화**
 5. API 및 서비스 메뉴 좌측 매뉴 '사용자 인증 정보'로 이동해서 API키 생성 (사용자 인증정보 만들기 - API 키)
 
-### 플러터 프로젝트에 주소 검색 메소드 추가 
-> http 요청을 통해 textSearch 구현하기
+## # http 요청을 통한 TextSearch 구현
+
 ```dart 
 // Controller
 

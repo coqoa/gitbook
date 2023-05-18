@@ -4,7 +4,7 @@
  
 <br>
  
-### # 데이터
+## # 데이터
 
 - 다음 예제 데이터는 `google place` api를 이용해 '중앙보훈병원'을 검색한 뒤 응답받은 JSON 데이터다
     <details>
@@ -227,47 +227,11 @@
             }
         ],
         "status" : "OK"
-        }
+    }
     ```
     </details>
     <br>
-<!-- - 이 중 하나의 데이터만 가져오면 다음과 같다
-    ```
-    {
-        "business_status" : "OPERATIONAL",
-        "formatted_address" : "\ub300\ud55c\ubbfc\uad6d \uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ub0a8\uad6c \uc5ed\uc0bc\ub85c 175",
-        "geometry" : {
-            "location" : {
-            "lat" : 37.4957668,
-            "lng" : 127.0382712
-            },
-            "viewport" : {
-            "northeast" : {
-                "lat" : 37.49711662989272,
-                "lng" : 127.0396210298927
-            },
-            "southwest" : {
-                "lat" : 37.49441697010727,
-                "lng" : 127.0369213701073
-            }
-            }
-        },
-        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
-        "icon_background_color" : "#909CE1",
-        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
-        "name" : "KB\uad6d\ubbfc\uc740\ud589 \uc5ed\uc0bc\uc911\uc559\uc810",
-        "opening_hours" : {},
-        "place_id" : "ChIJC_l_41ShfDURkXfXO1gxQCE",
-        "plus_code" : {
-            "compound_code" : "F2WQ+88 \uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
-            "global_code" : "8Q99F2WQ+88"
-        },
-        "rating" : 5,
-        "reference" : "ChIJC_l_41ShfDURkXfXO1gxQCE",
-        "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
-        "user_ratings_total" : 2
-    },
-    ``` -->
+
 - 이를 [여기](https://freeonlinetools24.com/json-decode)에서 decode 해보면 다음과 같은 데이터가 나온다
     <details>
     <summary>decode 완료 데이터</summary>
@@ -574,7 +538,7 @@
 
 <br>
 
-### # `model.dart` 생성
+## # `model.dart` 생성
  
 <br>
  
@@ -602,7 +566,7 @@ class AddressSearchModel {
 }
 ```
 
-### # 응답 데이터`(response)`를 for문을 통해 model에 넣어주고 결과를 리스트에 추가하는 작업
+## # 응답 데이터`(response)`를 for문을 통해 model에 넣어주고 결과를 리스트에 추가하는 작업
  
 <br>
  
@@ -654,7 +618,7 @@ class Controller extends GetxController{
     controller.addressList[index].lat;
     controller.addressList[index].lat;
     ```
-### # 결과 
+## # 결과 
  
 <br>
 
