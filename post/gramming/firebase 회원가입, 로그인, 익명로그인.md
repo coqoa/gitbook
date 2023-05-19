@@ -75,21 +75,24 @@
     }
 
     ```
-5. 익명로그인 페이지 구현
+5. 익명로그인 구현
     ```dart 
     import 'package:firebase_auth/firebase_auth.dart';
 
     final FirebaseAuth _auth = FirebaseAuth.instance;
 
     Future<void> signInAnonymously() async {
-    try {
-        UserCredential userCredential = await _auth.signInAnonymously();
-        User user = userCredential.user;
-        // 익명 사용자 로그인 성공 시 처리할 코드
-    } catch (e) {
-        // 로그인 실패 시 처리할 코드
-    }
+        try {
+            UserCredential userCredential = await _auth.signInAnonymously();
+            User user = userCredential.user;
+            // 익명 사용자 로그인 성공 시 처리할 코드
+        } catch (e) {
+            // 로그인 실패 시 처리할 코드
+        }
     }
 
     ```
-   1. 익명 로그인 -> 회원가입 구현
+    5-1. 익명 로그인 -> 회원가입 구현
+    ```dart 
+    
+    ```
