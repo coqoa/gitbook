@@ -138,7 +138,4 @@
 > 
 </details>
 
- 
-https://kees.page.link/?efr=0&ibi=tv.kees.kees&isi=1576780668&apn=tv.kees.kees&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dtv.kees.kees%26hl%3Dko%26gl%3DUS
-
-https://kees.page.link/?efr=0&ibi=tv.kees.kees&isi=1576780668&apn=tv.kees.kees&link=https%3A%2F%2Fkees.page.link%2Fshare%3FcontentsType%3D%25EC%25BD%2598%25ED%2585%2590%25EC%25B8%25A0%25ED%2583%2580%25EC%259E%2585%26number%3D%25EC%25BD%2598%25ED%2585%2590%25EC%25B8%25A0%25EB%2584%2598%25EB%25B2%2584
+https://kees.page.link?apn=tv.kees.kees&ibi=tv.kees.kees&isi=1576780668&link=https%3A%2F%2Fkees.page.link%2Fshare%3FcontentsType%3DBLIP%3Fnumber%3D123
