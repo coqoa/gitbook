@@ -137,6 +137,4 @@
 > [link](side-project/gramming.md)
 > 
 </details>
-
-https://kees.page.link/?efr=0&ibi=tv.kees.kees&isi=1576780668&apn=tv.kees.kees&link=https%3A%2F%2Fkees.page.link%2Fshare%3FcontentsType=POST%3Fnumber=1437
   
