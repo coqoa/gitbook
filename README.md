@@ -138,14 +138,14 @@
 > 
 </details>
 
-삭제
-쇼츠
-https://kees.page.link/8rX4
-포스트
-https://kees.page.link/ghDv
+삭제  
+쇼츠  
+https://kees.page.link/8rX4  
+포스트  
+https://kees.page.link/ghDv  
 
-있음
-쇼츠
-https://kees.page.link/i6VR
-포스트
-https://kees.page.link/d3Cp
+있음  
+쇼츠  
+https://kees.page.link/i6VR  
+포스트  
+https://kees.page.link/d3Cp  
