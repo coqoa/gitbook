@@ -127,18 +127,6 @@ class ShareController extends GetxController{
 
   Future<void> setup() async {
 
-    // 앱이 미설치인 경우 : 클립보드에 복사된 글 확인
-    ClipboardData? link = await Clipboard.getData(Clipboard.kTextPlain);
-    if (link != null && link.text != null) {
-      if (link.text!.startsWith('https://test.page.link')) {
-        final Uri uri = Uri.parse(link.text!);
-        final PendingDynamicLinkData? appLinkData = await FirebaseDynamicLinks.instance.getDynamicLink(uri);
-        if (appLinkData != null) {
-          onListenLink(appLinkData.link);
-        }
-      }
-    }
-
     // 앱이 종료상태일 경우 (Terminate)
     final PendingDynamicLinkData? initialLink = await FirebaseDynamicLinks.instance.getInitialLink();
     final _appLinks = AppLinks();
